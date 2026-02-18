@@ -39,10 +39,8 @@ How I Built It
 4. Built Tableau dashboard with KPI cards + drilldown + filters
 
 Files
+Dashboard screenshoot
 <img width="1716" height="875" alt="image" src="https://github.com/user-attachments/assets/6388dfd1-e1e7-40a8-a4eb-a95afa05704d" />
 
-/data → exported CSVs
-
-/sql → queries/views used
 
 /images → dashboard screenshots
