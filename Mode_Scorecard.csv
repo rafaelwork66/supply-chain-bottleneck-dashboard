@@ -1,0 +1,5 @@
+transport_mode,total_units,avg_lead_time,avg_shipping_time,weighted_defect_rate,cost_per_unit
+Road,13120,17.14,4.72,2.5037,0.0123
+Air,10882,18.27,5.12,1.6862,0.0144
+Rail,13493,14.89,6.57,2.1798,0.0113
+Sea,8604,12.18,7.12,2.4093,0.0098

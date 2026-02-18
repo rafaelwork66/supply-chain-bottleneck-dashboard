@@ -1,0 +1,13 @@
+product_type,transport_mode,total_units,avg_lead_time,weighted_defect_rate
+haircare,Road,4505,19.92,1.9972
+skincare,Road,6575,17.18,2.7916
+haircare,Air,2534,21.25,2.3112
+skincare,Rail,4434,17.33,2.6706
+skincare,Air,6038,17.77,1.9043
+skincare,Sea,3684,13.14,1.9306
+cosmetics,Road,2040,11.50,2.6944
+cosmetics,Sea,2574,13.83,1.8949
+cosmetics,Air,2310,14.80,0.4304
+haircare,Sea,2346,8.00,3.7255
+haircare,Rail,4226,8.70,1.6875
+cosmetics,Rail,4833,19.33,2.1599

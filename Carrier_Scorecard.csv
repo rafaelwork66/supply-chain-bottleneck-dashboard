@@ -1,0 +1,4 @@
+carrier,total_units,total_revenue,total_shipping_cost,ship_cost_per_unit,avg_lead_time,weighted_defect_rate
+"Carrier B",20889,250094.65,236.9,0.0113,15.91,1.6559
+"Carrier A",15081,142629.99,155.54,0.0103,14.96,2.6356
+"Carrier C",10129,184880.18,162.38,0.016,17.00,2.6658
